@@ -1,0 +1,5 @@
+requests
+pandas
+python-dotenv
+apache-airflow==2.9.1
+psycopg2-binary
